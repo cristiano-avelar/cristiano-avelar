@@ -95,16 +95,13 @@
 
 ## 📫 Contact
 
-<div align="center">
-
-<a href="mailto:crisavelarmarquespires@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-181717?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/cristiano-avelar">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+<div align="center"> 
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=crisavelarmarquespires@gmail.com" target="_blank"> 
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> 
+  
+  <a href="https://github.com/cristiano-avelar" target="_blank"> 
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> 
+  </a> 
 </div>
 
 ---
