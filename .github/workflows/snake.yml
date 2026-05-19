@@ -1,4 +1,4 @@
-```yaml
+
 name: Generate Snake
 
 on:
@@ -27,5 +27,5 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: output
           publish_dir: ./dist
-```
+
 
