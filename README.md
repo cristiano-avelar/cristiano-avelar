@@ -7,7 +7,7 @@
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FFFF&height=120&section=header"/>
 
 ## 🚀 About Me
 
@@ -19,7 +19,7 @@
 - 📚 Currently in the 3rd semester
 - 🎯 Looking for internship opportunities
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:8A2BE2&height=120&section=header"/>
 
 ## 🛠️ Technologies & Tools
 
@@ -108,4 +108,7 @@
 💻 Always learning new technologies
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:8A2BE2&height=120&section=footer"/>
+
 
