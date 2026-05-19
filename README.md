@@ -7,7 +7,7 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FFFF&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00FFFF,50:8A2BE2,100:00BFFF&text=Cristiano%20de%20Avelar&fontSize=50&fontAlignY=40&animation=fadeIn&fontColor=FFFFFF"/>
 
 ## 🚀 About Me
 
@@ -42,6 +42,12 @@
 
 
 </div>
+
+---
+
+<div align="center"> 
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=cristiano-avelar&theme=react-dark&hide_border=true&area=true"
+/> </div>
 
 ---
 
