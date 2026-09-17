@@ -1,9 +1,8 @@
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00F0FF,50:8A2BE2,100:0F2027&text=Cristiano%20de%20Avelar&fontSize=55&fontAlignY=38&animation=fadeIn&fontColor=FFFFFF"/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Backend+Developer;Cybersecurity+Student;Artificial+Intelligence+Student"/>
+<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Backend+Student;Cybersecurity+Student;Artificial+Intelligence+Student"/>
 
 </div>
 
@@ -31,19 +30,19 @@
 
 ---
 
-## 📊 GitHub Stats
+## 💻 Terminal Profile
 
-<div align="center"> 
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=cristiano-avelar&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/> 
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiano-avelar&layout=compact&langs_count=8&theme=radical&hide_border=true"/> 
-</div>
----
+```bash
+cristiano@ubuntu:~$ whoami
+Cristiano de Avelar
 
-<div align="center">
+cristiano@ubuntu:~$ cat mindset.txt
+> "Constantly learning, breaking things to understand how they work, and exploring the depths of Backend and Cybersecurity."
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=cristiano-avelar&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
+cristiano@ubuntu:~$ ./search_internship.sh
+Status: Actively looking for new opportunities...
+Loading... █████████████████████████▒▒ 99%
+```
 
 ---
 
@@ -57,16 +56,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=cristiano-avelar&theme=radical&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -74,6 +63,14 @@
 <img src="https://raw.githubusercontent.com/cristiano-avelar/cristiano-avelar/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
+
+---
+
+## ⚙️ My Environment
+
+- **OS:** Ubuntu / Linux
+- **Editor:** Vim & VS Code
+- **Terminal:** Bash 
 
 ---
 
@@ -97,6 +94,11 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+
+<a href="https://www.linkedin.com/in/cristiano-avelar-dev/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 <a href="https://github.com/cristiano-avelar" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -112,6 +114,3 @@
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:8A2BE2,100:00F0FF&height=120&section=footer"/>
-
-
-
